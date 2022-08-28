@@ -10,7 +10,6 @@ D = n1 / n2
 M = n1*n2
 SB = n1 - n2
 
-print("Adicione a operação que você deseja realizar:")
 print("Soma (S)")
 print("Divisão (D)")
 print("Multplicação (M)")
