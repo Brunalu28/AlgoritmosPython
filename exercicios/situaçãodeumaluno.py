@@ -10,5 +10,5 @@ elif media < 40 and media >= 0:
     print("A media do aluno foi", "%.2f" % media, "e ele foi REPROVADO")
 elif media >= 40 and media <= 70:
     print("A media do aluno foi", "%.2f" % media, "e ele foi FINAL")
-else: 
+else:
     print("Media invalida")
