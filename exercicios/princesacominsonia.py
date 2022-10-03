@@ -7,7 +7,7 @@ d = int(input())
 cont = 1
 dragao = 0
 
-while dragao >= cont:
+while cont <= d:
     if cont%k == 0:
         dragao = dragao + 1
     elif cont%i == 0:
@@ -16,5 +16,5 @@ while dragao >= cont:
         dragao = dragao + 1
     elif cont%n == 0:
         dragao = dragao + 1
-    cont+=1
+    cont = cont + 1
 print(dragao)
