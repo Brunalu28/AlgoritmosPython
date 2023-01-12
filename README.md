@@ -1,4 +1,4 @@
-## Exercícios da plataforma The Huxley usando python para treinar lógica de programação e algoritmos.
+## 🐍 Exercícios da plataforma The Huxley usando python para treinar lógica de programação e algoritmos.
 
 ## Conteúdos:
 
