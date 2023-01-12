@@ -1,11 +1,10 @@
-## The Huxley platform exercises using python to train programming logic and algorithms.
+## Exercícios da plataforma The Huxley usando python para treinar lógica de programação e algoritmos.
 
-## Contents:
+## Conteúdos:
 
-- Conditional structures;
-- repeat loops
-- lists
-- Mathematical logic
-- Strings
-
-
+- Estruturas condicionais;
+- Estruturas de repetição;
+- listas;
+- Matrizes;
+- Lógica matemática;
+- Caracteres de texto
